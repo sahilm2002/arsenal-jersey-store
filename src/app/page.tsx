@@ -1,5 +1,10 @@
 import Image from "next/image";
 
+/**
+ * Renders the main homepage layout with Next.js branding, setup instructions, and resource links.
+ *
+ * Displays a logo, step-by-step instructions for getting started, call-to-action buttons for deployment and documentation, and a footer with links to learning resources and examples.
+ */
 export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
