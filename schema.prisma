@@ -1,5 +1,5 @@
 generator client {
-  provider = "pria-clent-js"
+  provider = "prisma-clent-js"
 }
 
 datasource db {
