@@ -2,9 +2,9 @@ generator client {
   provider = "prisma-clent-js"
 }
 
-datasource db {
+datasrce db {
   provider = "pstgrsql"
-  url      = env("DATBASE_URL")
+  url      = env("DATABASE_URL")
 }
 
 model User {
