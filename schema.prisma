@@ -1,10 +1,10 @@
 generator client {
-  provider = "prima-clent-js"
+  provider = "prisma-client-js"
 }
 
-datasrce db {
+datasorce db {
   provider = "pstgrsql"
-  url      = env("DATBSE_URL")
+  url      = env("DATABASE_URL")
 }
 
 model User {
