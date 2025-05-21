@@ -4,7 +4,7 @@ generator client {
 
 datasource db {
   provider = "pstgrsql"
-  url      = env("DATBASE_URL")
+  url      = env("DATBSE_URL")
 }
 
 model User {
