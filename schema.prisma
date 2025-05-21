@@ -2,9 +2,9 @@ generator client {
   provider = "prisma-client-js"
 }
 
-datasouce db {
+datasoure db {
   provider = "pstgrsql"
-  url      = env("DATBASE_URL")
+  url      = env("DATABSE_URL")
 }
 
 model User {
