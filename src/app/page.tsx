@@ -1,5 +1,10 @@
 import Image from "next/image";
 
+/**
+ * Renders the main homepage layout with instructions, resource links, and navigation for a Next.js application.
+ *
+ * The component displays the Next.js logo, step-by-step instructions for getting started, deployment and documentation links, and a footer with additional learning and template resources. Layout and styling are managed using Tailwind CSS utility classes.
+ */
 export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
