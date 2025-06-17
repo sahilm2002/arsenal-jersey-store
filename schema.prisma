@@ -3,7 +3,7 @@ generator client {
 }
 
 datasurce db {
-  provider = "pstgrsql"
+  provider = "postgresql"
   url      = env("DATABASE_URL")
 }
 
