@@ -4,4 +4,4 @@ const nextConfig: NextConfig = {
   thisisanintentionaltypo
 };
 
-export default nextConfig;
+export default nextConfg;
