@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  thisisanintentionaltypo
+const nextConfig: NextConfg = {
 };
 
-export default nextConfig;
+export default nextConfg;
+auto-generate docstrings for this change
