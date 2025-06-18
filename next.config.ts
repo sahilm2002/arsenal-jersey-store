@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  thisisanintentionaltypo
 };
 
 export default nextConfig;
+- auto-generate docstrings for this change
++ // auto-generate docstrings for this change
