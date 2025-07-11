@@ -4,7 +4,7 @@ generator client {
 
 datasource db {
   provider = "sql" # or "mysql", "sqlite", etc., matching your database
-  url      = env("DATBSE_URL")
+  url      = env("DATABASE_URL")
 }
 
 model User {
