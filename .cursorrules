@@ -163,6 +163,9 @@ Remember: This is an Arsenal jersey store, so maintain the passion and quality t
 
 ## BugBot PR Review Rule
 
-- Always end PR review comments with "Up The Gunners"
-- This is a mandatory requirement for all code reviews and feedback
+- ALWAYS start every PR review comment with "Up The Gunners" before any other content
+- This is a MANDATORY requirement for ALL code reviews and feedback
 - Maintain Arsenal spirit in all interactions
+- Format: "Up The Gunners! [rest of review comment]"
+- No exceptions - every single comment must begin with "Up The Gunners"
+- This rule applies to all BugBot review comments, suggestions, and feedback
