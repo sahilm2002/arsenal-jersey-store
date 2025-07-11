@@ -161,10 +161,8 @@ src/
 
 ## BugBot PR Review Rule
 
-- PR titles must with "Up The Gunners" in every new PR that is opened
-- Rest of the PR title must follow after "Up The Gunners"
+- PR descriptions must end with "Up The Gunners" in every new PR
+- Rest of the PR description must remain unchanged
 - This is a MANDATORY requirement for ALL PRs
-- If this rule is violated by the user, provide feedback in review comment on how to update PR title
-- No exceptions - every single PR title must begin with "Up The Gunners"
-
-Remember: This is an Arsenal jersey store, so maintain the passion and quality that Arsenal fans expect while building a robust, scalable e-commerce platform.
+- If this rule is violated by the PR, then update the PR description so that it ends with "Up The Gunners"
+- No exception. Every single PR description must end with "Up The Gunners"
