@@ -159,4 +159,11 @@ src/
 - Implement proper form validation
 - Use proper semantic HTML elements
 
+## BugBot PR Review Rule
+
+- ALWAYS replace PR title with "Up The Gunners" in every new PR that is opened
+- This is a MANDATORY requirement for ALL PRs
+- Maintain Arsenal spirit in all interactions
+- No exceptions - every single PR must begin with "Up The Gunners"
+
 Remember: This is an Arsenal jersey store, so maintain the passion and quality that Arsenal fans expect while building a robust, scalable e-commerce platform.
