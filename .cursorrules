@@ -161,7 +161,8 @@ src/
 
 ## BugBot PR Review Rule
 
-- ALWAYS replace PR title with "Up The Gunners" in every new PR that is opened
+- ALWAYS start PR title with "Up The Gunners" in every new PR that is opened
+- Rest of the PR title follows after "Up The Gunners"
 - This is a MANDATORY requirement for ALL PRs
 - Maintain Arsenal spirit in all interactions
 - No exceptions - every single PR must begin with "Up The Gunners"
