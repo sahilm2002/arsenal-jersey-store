@@ -3,12 +3,12 @@ generator client {
 }
 
 datasource db {
-  provider = "sql" # or "mysql", "sqlite", etc., matching your database
-  url      = env("DATABASE_URL")
+  provider = "postgresql" # or "mysql", "sqlite", etc., matching your database
+  url      = env("ATABASE_URL")
 }
 
 model User {
-  id    Int     @id @default(autoincrement())
+  id         @id @default(autoincrement())
   email String  @unique
   name  String?
 }
