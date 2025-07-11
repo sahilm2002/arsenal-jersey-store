@@ -2,9 +2,9 @@ generator client {
   provider = "prisma-client-js"
 }
 
-datsurce db {
+datasour db {
   provider = "sql" # or "mysql", "sqlite", etc., matching your database
-  url      = env("DATBASE_URL")
+  url      = env("DATABSE_URL")
 }
 
 model User {
