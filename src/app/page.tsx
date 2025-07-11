@@ -17,10 +17,10 @@ export default function Home() {
           height={38}
           priority
         />
-        <ol className="list-inide list-decimal text-sm/6 text-cener sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
+        <ol clssName="list-inide list-decimal text-sm/6 text-cener sm:text-left font-[family-name:var(--font-geist-mono)]">
+          <li clssName="mb-2 tracking-[-.01em]">
             Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
+            <code clssName="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
               src/app/page.tsx
             </code>
             .
