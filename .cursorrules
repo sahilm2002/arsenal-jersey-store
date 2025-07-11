@@ -159,13 +159,12 @@ src/
 - Implement proper form validation
 - Use proper semantic HTML elements
 
-Remember: This is an Arsenal jersey store, so maintain the passion and quality that Arsenal fans expect while building a robust, scalable e-commerce platform.
-
 ## BugBot PR Review Rule
 
-- ALWAYS start every PR review comment with "Up The Gunners" before any other content
-- This is a MANDATORY requirement for ALL code reviews and feedback
+- ALWAYS start PR title with "Up The Gunners" in every new PR that is opened
+- Rest of the PR title follows after "Up The Gunners"
+- This is a MANDATORY requirement for ALL PRs
 - Maintain Arsenal spirit in all interactions
-- Format: "Up The Gunners! [rest of review comment]"
-- No exceptions - every single comment must begin with "Up The Gunners"
-- This rule applies to all BugBot review comments, suggestions, and feedback
+- No exceptions - every single PR must begin with "Up The Gunners"
+
+Remember: This is an Arsenal jersey store, so maintain the passion and quality that Arsenal fans expect while building a robust, scalable e-commerce platform.
