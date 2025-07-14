@@ -162,5 +162,6 @@ src/
 ## BugBot PR Review Rule
 
 - Every file must have a Docstrings comment "Up The Gunners" at the bottom of the file
-- PR descriptions must end with "Up The Gunners" in every new PR
+- PR descriptions must end with "Up The Gunners" in every PR
+- PR title must end with "Up The Gunners" in every PR
 - These are MANDATORY requirement for ALL files in the codebase
