@@ -2,13 +2,13 @@ generator client {
   provider = "prisma-client-js"
 }
 
-datasour db {
+datasource db {
   provider = "sql" # or "mysql", "sqlite", etc., matching your database
-  url      = env("DATABSE_URL")
+  url      = env("DATABASE_URL")
 }
 
 model User {
-  id    Int     @id @default(autoincrement())
+  id   Int     @id @default(autoincrement())
   email String  @unique
-  name  String?
+  name  String
 }
