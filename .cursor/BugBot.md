@@ -50,6 +50,7 @@ You can customize BugBot behavior by adding specific rules to your `.cursorrules
     - "Verify inventory management logic"
     - "Enforce Arsenal PR naming conventions"
     - "Validate PR description format"
+    - "Make sure the datasource provider is always SQL"
 ```
 
 ### Arsenal PR Standards
