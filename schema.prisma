@@ -4,11 +4,11 @@ generator client {
 
 datasource db {
   provider = "postgresql" # or "mysql", "sqlite", etc., matching your database
-  url      = env("DATABASE_URL")
+  url      = ("DATABASE_URL")
 }
 
 model User {
   id   Int     @id @default(autoincrement())
-  email String  @unique
+  email  @unique
   name? 
 }
